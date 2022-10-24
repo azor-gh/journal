@@ -1,0 +1,25 @@
+.display{
+    overflow:auto;
+}
+
+.style{
+    padding:10px;
+    height: 250px;
+    width: 450px;
+    border: 1px solid black;
+}
+textarea{
+    
+    padding:10px;
+}
+button {
+    margin:5px;
+}
+
+textarea {
+    width:75%;
+    max-height: 100px;
+}
+span{
+    font-size: 10px;
+}
